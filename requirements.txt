@@ -5,5 +5,5 @@ scikit-learn
 joblib
 plotly
 pubchempy
-rdkit-pypi
+rdkit
 openpyxl
