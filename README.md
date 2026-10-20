@@ -81,7 +81,7 @@ Les métriques finales doivent être interprétées à partir des résultats eff
 - pandas et NumPy
 - scikit-learn
 - RDKit
-- Streamlit, si confirmé dans le code de l'application
+- Streamlit
 - Matplotlib et/ou Plotly, selon les visualisations effectivement utilisées
 
 ## Installation et exécution
